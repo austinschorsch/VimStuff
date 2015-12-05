@@ -1,0 +1,2 @@
+If the terminal does not support 256 colors, add this line:
+ export TERM=xterm-256color
